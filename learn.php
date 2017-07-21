@@ -1,13 +1,1 @@
-sentance 1 --------start
-
-sentance 2.........git hub changes 1
-
-
-sentence 3/////////dtop
-
-sentence 4/////////hello
-
-Changes to be commChanges to be comm
-Changes to be comm
-Changes to be comm
-Changes to be comm
+Git is a version control system (VCS) for tracking changes in computer files and coordinating work on those files among multiple people.
